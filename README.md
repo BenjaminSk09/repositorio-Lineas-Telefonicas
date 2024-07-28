@@ -1,3 +1,11 @@
+# Acceso a las paginas
+
+Para poder ver las paginas debera incluir el nombre de las rutas, en este caso son
+
+planes, clientes , lineas
+
+
+
 # CodeIgniter 4 Framework
 
 ## What is CodeIgniter?
